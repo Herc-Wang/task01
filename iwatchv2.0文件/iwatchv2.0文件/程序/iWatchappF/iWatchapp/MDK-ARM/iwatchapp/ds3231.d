@@ -1,0 +1,33 @@
+iwatchapp\ds3231.o: ..\Src\DS3231.c
+iwatchapp\ds3231.o: ../Inc/DS3231.h
+iwatchapp\ds3231.o: ../Inc/sys.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+iwatchapp\ds3231.o: ../Inc/stm32f1xx_hal_conf.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Include/core_cm3.h
+iwatchapp\ds3231.o: H:\MDK 5\ARM\ARMCC\Bin\..\include\stdint.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Include/cmsis_version.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+iwatchapp\ds3231.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+iwatchapp\ds3231.o: H:\MDK 5\ARM\ARMCC\Bin\..\include\stddef.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+iwatchapp\ds3231.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+iwatchapp\ds3231.o: ../Inc/main.h
+iwatchapp\ds3231.o: ../Inc/myiic.h
+iwatchapp\ds3231.o: ../Inc/delay.h
+iwatchapp\ds3231.o: ../Inc/HPDL1414.h

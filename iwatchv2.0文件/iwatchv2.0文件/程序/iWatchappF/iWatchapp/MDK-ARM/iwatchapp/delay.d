@@ -1,0 +1,30 @@
+iwatchapp\delay.o: ..\Src\delay.c
+iwatchapp\delay.o: ../Inc/sys.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+iwatchapp\delay.o: ../Inc/stm32f1xx_hal_conf.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Include/core_cm3.h
+iwatchapp\delay.o: H:\MDK 5\ARM\ARMCC\Bin\..\include\stdint.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Include/cmsis_version.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+iwatchapp\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+iwatchapp\delay.o: H:\MDK 5\ARM\ARMCC\Bin\..\include\stddef.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+iwatchapp\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+iwatchapp\delay.o: ../Inc/main.h
+iwatchapp\delay.o: ../Inc/delay.h
